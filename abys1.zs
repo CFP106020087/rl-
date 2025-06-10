@@ -1,0 +1,1 @@
+recipes.addShaped(<abyssalcraft:oblivionshard>,[[null, <minecraft:obsidian>, null],[<minecraft:obsidian>, <abyssalcraft:transmutationgem>, <minecraft:obsidian>], [null, <minecraft:obsidian>, null]]);
